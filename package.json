@@ -1,5 +1,5 @@
 {
-  "name": "plnetapi",
+  "name": "planetapi",
   "version": "1.0.0",
   "description": "MEAN API",
   "main": "index.js",
@@ -16,5 +16,13 @@
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "mongoose": "^6.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mc-Ramirez/Servidor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mc-Ramirez/Servidor/issues"
+  },
+  "homepage": "https://github.com/Mc-Ramirez/Servidor#readme"
 }
